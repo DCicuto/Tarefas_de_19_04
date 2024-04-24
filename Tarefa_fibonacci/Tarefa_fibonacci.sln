@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefa_fibonacci", "Tarefa_fibonacci\Tarefa_fibonacci.csproj", "{02455D73-A633-43F6-86EF-06C61934DB88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02455D73-A633-43F6-86EF-06C61934DB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02455D73-A633-43F6-86EF-06C61934DB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02455D73-A633-43F6-86EF-06C61934DB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02455D73-A633-43F6-86EF-06C61934DB88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A090DF32-4DC9-4EB1-A4FF-C27CE39C5BB9}
+	EndGlobalSection
+EndGlobal
